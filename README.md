@@ -1,4 +1,4 @@
-<em> # Amigo Secreto </em>
+<em>  Amigo Secreto </em>
 
 ![Badge en Desarollo](https://img.shields.io/badge/STATUS-EN%20DESAROLLO-green)
 
@@ -11,8 +11,8 @@
 
 ## 📁 Acceso al proyecto
 
-Puedes acceder al proyecto en el siguiente enlace: [Amigo Secreto](https://github.com/Alura-One-8/challenge-amigo-secreto)
-
+- Repositorio: [Amigo Secreto](https://github.com/Alura-One-8/challenge-amigo-secreto)
+- Web : [Amigo Secreto](https://alura-one-8.github.io/challenge-amigo-secreto/)
 
 ## Autores
 
